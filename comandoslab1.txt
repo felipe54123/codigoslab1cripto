@@ -1,0 +1,8 @@
+#actividad 1
+python actividad1.py "criptografia y seguridad en redes" 9
+
+#actividad 2
+python actividad2.py larycxpajorj h bnpdarmjm nw anmnb
+
+#actividad 3
+python actividad3.py capturalab1.pcapng
